@@ -2,6 +2,8 @@
 
 Professional, menu bar control for Roku devices on your local network. Includes a SwiftUI macOS menu bar app and a simple CLI.
 
+![Roku Control Screenshot](assets/images/roku-control.png)
+
 ## Features
 
 - Menu bar remote with power, transport, volume, D‑pad, and typing
