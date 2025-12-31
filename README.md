@@ -94,4 +94,4 @@ Auto‑discovery without setting `ROKU_HOST`:
 
 ## License
 
-Choose a license before publishing. MIT is common for tools like this.
+MIT. See `LICENSE`.
